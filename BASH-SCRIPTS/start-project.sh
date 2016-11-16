@@ -46,7 +46,7 @@ case $PROJECT_TYPE in
   ;;
   "exp-basic"|"5")
   git init
-  git pull https://github.com/david-j-davis/html5-project-boiler-pug-bootstrap-node-sass.git
+  git pull https://github.com/david-j-davis/Express-Basic-Server.git
   atom .
   ;;
   "html"|"6")
